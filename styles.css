@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.container{
+	display:inline-block;
+	background-color:#f1f1f1;
+	padding:20px;
+}
+img{
+	height:100px;
+	width:150px;
+	tect-align:center;
+}
+h1{
+	text-align:center;
+}
+p{
+	text-align:center;
+}
+.btn{
+	border-radius:5px;
+	background-color:red;
+	color:white;
+	text-align:center;
+	margin-left:80px;
+}
